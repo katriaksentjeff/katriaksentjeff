@@ -8,7 +8,7 @@ My end goal is to be able help and assist other people in their decision-making 
 ## Table of contents
 
 ## Data cleaning & preprocessing
-### Monthly updated public COVID-19 dataset from Centers for Disease Control and Prevention
+[### Monthly updated public COVID-19 dataset from Centers for Disease Control and Prevention](https://github.com/katriaksentjeff/katriaksentjeff/tree/main/COVID-19%20clean%20and%20data%20preprocessing)
 Note! The public dataset is 1.97 GB and could not be downloaded to GitHub. Click the link and you can access the [dataset](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf)
  
 
